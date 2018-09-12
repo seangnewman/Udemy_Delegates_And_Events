@@ -17,9 +17,9 @@
             </Style>
         </Grid.Resources>
         <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
-            <Button x:Name="button1" Content="Button 1"/>
+            <Button x:Name="button1" Content="Button 1"  />
             <Button x:Name="button2" Content="Button 2"/>
-            <Button x:Name="button3" Content="Button 3"/>
+            <Button x:Name="button3" Content="Button 3"  />
         </StackPanel>
     </Grid>
 </Window>

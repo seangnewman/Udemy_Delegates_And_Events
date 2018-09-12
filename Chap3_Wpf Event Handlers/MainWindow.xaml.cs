@@ -24,5 +24,7 @@ namespace Wpf_Event_Handlers
         {
             InitializeComponent();
         }
+
+
     }
 }
